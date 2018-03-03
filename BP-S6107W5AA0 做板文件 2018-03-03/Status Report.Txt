@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [S6XT10W.PrjPCB]
+   Generated File[S6XT10W-RoundHoles.TXT]
+   Generated File[S6XT10W-SlotHoles.TXT]
+   Generated File[S6XT10W.DRL]
+   Generated File[S6XT10W.LDP]
+   Generated File[S6XT10W.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 11:33:35 On 2018/3/3
